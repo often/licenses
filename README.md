@@ -1,7 +1,7 @@
 # licenses
 find that license
 
-[website](https://licenses.sany.one)
+[website](https://often.github.io/licenses/)
 
 ## license
 [0BSD](LICENSE)
